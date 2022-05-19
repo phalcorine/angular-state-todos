@@ -1,6 +1,6 @@
 # StateTodos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+A playground for learning state management with Angular and NgRx.
 
 ## Development server
 
